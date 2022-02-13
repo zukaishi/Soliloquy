@@ -12,3 +12,11 @@
 - 朝活
 - 休日の過ごし方
 - エンジニアとしての活動
+
+## キク英文法
+### day1 
+- 妻に怒られた後、僕は2日間イライラしていた
+  -  after my wife got angery me, I remained frustate for two days.
+- 太陽は朝東に登る
+  - The sun up east in morning.
+- 
